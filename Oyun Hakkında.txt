@@ -1,0 +1,3 @@
+Saldırmak İçin "E" tuşuna basın.
+
+Eğer oyun başlangıçta gözükmez ise lütfen my project'den Scenes kısmını Seçip  main Menu'yü açın ve oynamaya başlayın
